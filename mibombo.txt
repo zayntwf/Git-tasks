@@ -1,1 +1,1 @@
-assignment
+this is text from conflicting branch
